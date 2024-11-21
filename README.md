@@ -18,4 +18,4 @@ Docker image for grpcurl with multi-arch support, and is publicly available in m
 
 ## Usage
 
-Just select an image repository and a version, e.g. `docker.io/imroc/grpcurl:latest`.
+Select an image repository and a version to use, e.g. `docker.io/imroc/grpcurl:latest`.
